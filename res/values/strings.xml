@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chess</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="resigned_text">Player resigned. Enter a name and save the game or press OK to continue without saving.</string>
+    <string name="game_over">Game Over!</string>
+    <string name="ok">OK</string>
+    <string name="black_wins">Black Wins! Enter a name and save or press OK to continue without saving.</string>
+    <string name="white_wins">White Wins! Enter a name and save or press OK to continue without saving.</string>
+    <string name="save_replay">Save</string>
+    <string name="title_activity_replays">Saved Games</string>
+    <string name="replay_select">Select a game to replay</string>
+    <string name="replay_end">End of Replay</string>
+    <string name="ok_to_continue">Press OK to continue</string>
+    <string name="draw_text">Draw. Enter a name and save the game or press OK to continue without saving</string>
+    <string name="pick_piece">Select a piece to promote your pawn to</string>
+
+    <string-array name="piece_array">
+        <item>Queen</item>
+        <item>Bishop</item>
+        <item>Knight</item>
+        <item>Rook</item>
+    </string-array>
+
+    <string name="title_activity_game">GameActivity</string>
+
+</resources>
